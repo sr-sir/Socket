@@ -1,0 +1,10 @@
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\bin\Debug\Socket消息传输（客户端）.exe.config
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\bin\Debug\Socket消息传输（客户端）.exe
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\bin\Debug\Socket消息传输（客户端）.pdb
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\obj\Debug\Socket消息传输（客户端）.csprojAssemblyReference.cache
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\obj\Debug\Socket消息传输_客户端_.Form1.resources
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\obj\Debug\Socket消息传输_客户端_.Properties.Resources.resources
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\obj\Debug\Socket消息传输（客户端）.csproj.GenerateResource.cache
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\obj\Debug\Socket消息传输（客户端）.csproj.CoreCompileInputs.cache
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\obj\Debug\Socket消息传输（客户端）.exe
+E:\Personal\Socket消息传输\Socket消息传输（客户端）\obj\Debug\Socket消息传输（客户端）.pdb
